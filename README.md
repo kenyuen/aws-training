@@ -1,2 +1,3 @@
 # aws-training
-AWS Training ground
+AWS training ground.  Snippets used for experiments.
+
